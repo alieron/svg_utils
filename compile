@@ -1,0 +1,1 @@
+g++ -g svg_utils.cpp -o bin/svg_utils && ./bin/svg_utils
